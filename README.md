@@ -1,1 +1,1 @@
-# OOP-S
+# OOPS Practical
